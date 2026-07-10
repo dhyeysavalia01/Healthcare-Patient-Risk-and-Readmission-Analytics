@@ -1,0 +1,16 @@
+feature,importance
+age,0.20049233542782469
+comorbidity_count,0.1612589942891508
+billing_amount,0.1183427852301173
+length_of_stay_days,0.11393903105997896
+bmi,0.0771371538098237
+systolic_bp,0.0737046797468277
+glucose_level,0.06983464950363147
+admission_type_Emergency,0.030813302732462994
+admission_type_Elective,0.015520416818019531
+admission_type_Referral,0.012066347853965365
+insurance_type_Private,0.010483663373733671
+branch_Riverside,0.00947475618541641
+branch_City Central,0.00941006171303289
+insurance_type_Self-Pay,0.009400678787112546
+department_Cardiology,0.00937085863437212
